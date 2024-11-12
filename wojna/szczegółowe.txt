@@ -1,5 +1,5 @@
 $1. Wojnę można wypowiedzieć każdej osobie na serwerze, poprzez napisanie o tym na kanale #logi na discordzie w formule tam przedstawionej.
-$2. Po wypowiedzeniu wojny atakujący się ma obowiązek ustalenia daty bitwy ( nie dalej niż 4 dni od jej wypowiedzenia lub do pierwszego dnia wolnego).
+$2. Po wypowiedzeniu wojny broniący po uzgodnieniu z atakującym się ma obowiązek ustalenia daty bitwy ( nie dalej niż 4 dni od jej wypowiedzenia lub do pierwszego dnia wolnego).
 $3. Atakować można tylko kraje, które graniczą z którymkolwiek z sojuszników strony atakującej. Jeśli ta granica jest morska, to można atakować tylko statkami lub przeprowadzić desant.
 //TODO $4. Jeśli atakujemy państwo mając miażdżącą przewagę liczebną (o min. 2 sojuszników więcej) wszyscy atakujący mają obniżony poziom statusu międzynarodowego.
 $5. Gdy bitwa się rozpoczyna atakujący wybiera miasto, które atakuje w pierwszej kolejności ( musi ono graniczyć z państwami atakującymi, bądź jednym z wcześniej podbitych miast);
