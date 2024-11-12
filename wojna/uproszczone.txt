@@ -1,0 +1,4 @@
+Wypowiedziec wojnę trzeba na logach. Ustala się termin razem max. 4 dni lub najbliższy dzień wolny. Podczas bitwy atakujący wybiera miasto, które będzie atakował. Każda śmierć obniża jego morale.
+Morale, pkt biewne, procent zdobytych punktów są widoczne na bossbarze na górze ekranu. Po zdobyciu miasta można albo dalej atakować albo podpisać pakt albo stwierdzić, że już się dalej nie atakuje. Wtedy broniący się może 
+przeprowadzić kontratak w taki sam sposób. I wtedy na bossbarze widać postęp broniącego się. Wojna kończy się paktem. Jeśli ilość punktów zdobytych przez stronę, która wygrała to 100% to można podbić całe państwo, jak 
+50% to ustalić jego podległość, jak 25% to dostać zdobycze terytorialne, jak mniej to tylko reparacje. Jak 0% to nikt nie może odnieść żadnych sukcesów.
