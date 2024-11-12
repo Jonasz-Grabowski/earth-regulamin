@@ -1,0 +1,1 @@
+Jeśli nie chcesz się zagłębiać we wszystkie informacje na temat systemu wojny, a wystarczy ci tylko widza podstawowa, potrzebna do prowadzenia walk przeczytaj jedynie uproszczone.txt. Jeśli jednak chcesz dokładnie wiedzieć jak wszystko działa przeczytaj szczegółowe.txt;
