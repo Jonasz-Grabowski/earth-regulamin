@@ -19,5 +19,13 @@ Art. 4: Wszystkie powyższe artykuły dotyczą jedynie broni nowoczesnej, tzn. c
 §3: HANDLOWANIE Z HOSTEM
 
 Art. 1: Możliwe jest handlowanie z hostem w celu nabycia pewnych przedmiotów
-Art. 2: Cena 
+Art. 2: Cena podlega negocjacji
+Art. 3: Możliwe jest kupno nielegalnych substancji
+Art. 4: Możliwe jest kupno cywilnych pojazdów
+§4: HANDEL Z GRACZAMI
+
+Art. 1: Handel z innymi graczami jest możliwy poprzez wymianę bezpośrednią lub skrzynki na sprawnie serwera
+Art. 2: Możliwa jest budowa dróg za zgodą obu współpracujących krajów. Drogi muszą być szerokie na 5 bloków z czarnego betonu i muszą mieć przerywaną linię z białego betonu po środku(1 blok czarny, 3 białe, itp)
+Art. 3: Pojazdy cywilne lądowe muszą poruszać się wyłącznie po drogach wyżej wymienionych
+
 
