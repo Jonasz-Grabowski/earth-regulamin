@@ -22,6 +22,7 @@ Art. 1: Możliwe jest handlowanie z hostem w celu nabycia pewnych przedmiotów
 Art. 2: Cena podlega negocjacji
 Art. 3: Możliwe jest kupno nielegalnych substancji
 Art. 4: Możliwe jest kupno cywilnych pojazdów
+
 §4: HANDEL Z GRACZAMI
 
 Art. 1: Handel z innymi graczami jest możliwy poprzez wymianę bezpośrednią lub skrzynki na sprawnie serwera
