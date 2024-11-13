@@ -1,6 +1,6 @@
 REGULAMIN DOTYCZĄCY GOSPODARKI SERWERA
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-§1: ZASADY DOTYCZĄCY EXPLOITÓW I FARM
+§1: ZASADY DOTYCZĄCE EXPLOITÓW I FARM
 Art. 1: Wszelkie glitche i explioty pozwalające na kopiowanie przedmiotów, w tym duplikatory nici, tnt, torów, dywanów i tym podobnych są surowo zakazane
 Art. 2: Wszelkie farmy, które są automatyczne bądź półautomatyczne lub znajdują się na liście poniżej, są zakazane w celu urozmaicenia rozgrywki:
 -  Farma Żelaza
@@ -16,5 +16,8 @@ Art. 3: Wszelka próba nielegalnej produkcji broni jest surowo karana
 Art. 4: Enchantowanie swojej broni jest nielegalne i będzie skutkowało karami, w tym czyszczeniem ekwipunku i karami do statusu
 Art. 4: Wszystkie powyższe artykuły dotyczą jedynie broni nowoczesnej, tzn. czołgi, broń palna, statki czy samoloty.
 
-§3: 
+§3: HANDLOWANIE Z HOSTEM
+
+Art. 1: Możliwe jest handlowanie z hostem w celu nabycia pewnych przedmiotów
+Art. 2: Cena 
 
