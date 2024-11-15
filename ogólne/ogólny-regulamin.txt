@@ -2,3 +2,4 @@ $1. Jeśli są jakieś propozycje to piszemy je na kanale propozycje i jeśli ja
 $2. Jeśli jakaś nowa zasada nie została spingowana przez admina na changelogu, to nie obowiązuje.
 $3. Jeśli coś wydaje ci się nielegalne, to napisz do hosta.
 $4. W miarę możliwości co tydzień będą pojawiały się eventy.
+$5. Można kraść rzeczy tylko z otwartych skrzynek( tzn. nie ma nad nimi żadnego pełnego bloku)
