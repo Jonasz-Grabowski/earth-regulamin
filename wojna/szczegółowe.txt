@@ -1,7 +1,7 @@
 $1. Wojnę można wypowiedzieć każdej osobie na serwerze, poprzez napisanie o tym na kanale #logi na discordzie w formule tam przedstawionej.
 $2. Po wypowiedzeniu wojny broniący po uzgodnieniu z atakującym się ma obowiązek ustalenia daty bitwy ( nie dalej niż 4 dni od jej wypowiedzenia lub do pierwszego dnia wolnego).
 $3. Atakować można tylko kraje, które graniczą z którymkolwiek z sojuszników strony atakującej. Jeśli ta granica jest morska, to można atakować tylko statkami lub przeprowadzić desant.
-//TODO $4. Jeśli atakujemy państwo mając miażdżącą przewagę liczebną (o min. 2 sojuszników więcej) wszyscy atakujący mają obniżony poziom statusu międzynarodowego.
+$4. Jeśli atakujemy państwo mając miażdżącą przewagę liczebną (o min. 2 sojuszników więcej) wszyscy atakujący mają obniżone morale o 0.2.
 $5. Gdy bitwa się rozpoczyna atakujący wybiera miasto, które atakuje w pierwszej kolejności ( musi ono graniczyć z państwami atakującymi, bądź jednym z wcześniej podbitych miast);
 $6. Celem każdego starcia jest zmienienie flagi w mieście na flagę jednego z państw atakujących bądź ich wspólnej flagi ( flaga to po prostu baner).
 $7. Za zdobycie każdej flagi dostaje się 5 pkt.
@@ -16,4 +16,5 @@ $12. Jeżeli broniący się w kontrataku odbił wszystkie swoje miasta może zac
 $13. Po całej bitwie( ataku i kontraaku ) obliczany jest Procent zdobytych punktów, przy czym ilość zdobytych miast to będzie ilość z końca walk. Przykładowo jeśli państwo zdobyło najpierw 4 miasta ale drugie państwo odbiło 3 to zdobyte jest tylko 1, a morale to morale drużyny na końcu ( podczas obrony nie traci się morale, więc morale atakującego jest takie samo jak przed fazą kontrataku).
 $14. Jeśli broniący odbił wszystkie swoje miasta i zdobył np. 3 miasta atakującego to w tym momencie wszystko liczy się tak samo jak w $10 tak, jakby to on był atakujący, przy czym jego morale się nie odnawia w momencie, gdy zaczyna atakować teren wroga.
 $15. Walka zawsze kończy się traktatem pokojowym ( jeśli kontratakujący stwierdzi, że już nie chce atakować zaczyna się paktowanie, gdyż nie można zrobić drugiego kontraataku).
-//TODO $16. Jeśli podczas walki ktoś uszkodzi jakiś budynek zależący do strefy UNESCO straci punkty statusu międzynarodowego.
+$16. Jeśli podczas walki ktoś uszkodzi jakiś budynek zależący do strefy UNESCO straci 0.2 morale.
+$17. Jeśli ktoś straci państwo, staje się bezpaństwowym co oznacza, że nie ma własnego terenu, ale może pomagać innym w wojnie oraz teren odzyskać, ale nie może samodzielnie wojny wypowiadać.
